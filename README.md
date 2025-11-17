@@ -72,7 +72,7 @@ AI-driven personalization for dietary needs and preferences
 
 # Diagram :
 
-![Flow Diagram](https://github.com/user-attachments/assets/389f48ba-fb23-4e05-8bbc-4f745d87faea)
+![Flow Diagram](https://github.com/user-attachments/assets/c76ba184-f4f2-4884-a53f-dc88f9318428)
 
 # Diagram Flow Explain :
 
